@@ -1,5 +1,5 @@
 package Questao3;
-
+import java.util.*;
 public class EstacaoTempo implements Sujeito {
 
     private List<Observer> observers;
